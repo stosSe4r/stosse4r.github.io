@@ -28,7 +28,7 @@ Tags: 排序, 枚举, 递推
 
 ### 代码
 
-```
+```cpp
 #include<iostream>
 #include<cmath>
 using namespace std;
@@ -109,7 +109,7 @@ Tags: 哈希
 
 ### 代码
 
-```
+```cpp
 #include <iostream>
 #include <cstring>
 
@@ -290,7 +290,7 @@ Tags: 模拟, 栈
 时空复杂度都是$O(n)$。
 
 ### 代码
-```
+```cpp
 #include <iostream>
 struct {
 	int height, count;
